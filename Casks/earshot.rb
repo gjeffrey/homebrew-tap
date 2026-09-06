@@ -1,6 +1,6 @@
 cask "earshot" do
-  version "0.9.2,202609050000"
-  sha256 "b9007360cd78213fdfd8c2adddc2caff72d6374ed20e5f20a8151d1fbb871fd4"
+  version "0.9.3,202609061509"
+  sha256 "fc76d300b0b4ded64ac709720a8e7c40789f6af7759bd6a55b9ca42ffb6a2c89"
 
   url "https://www.gabrieljeffrey.com/earshot/Earshot.zip"
   name "Earshot"
