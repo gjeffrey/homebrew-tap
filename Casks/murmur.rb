@@ -1,6 +1,6 @@
 cask "murmur" do
-  version "0.1.0,202609051518"
-  sha256 "b77387b644783f8899a2302790fcb6416714f83cf6ed15d3514e49ac530cae1a"
+  version "0.1.0,202609051944"
+  sha256 "25af4dc762a239e7081920ceb26f2d6c4bf040d12eaf5458b9e7a79769364994"
 
   url "https://gabrieljeffrey.com/murmur/updates/Murmur-#{version.csv.second}.zip"
   name "Murmur"
