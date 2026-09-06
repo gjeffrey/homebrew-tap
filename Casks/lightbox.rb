@@ -1,8 +1,8 @@
 cask "lightbox" do
-  version "1.0,202609052037"
-  sha256 "da5069da1db186cf2fea91230e7233c2e0c785d68d2a8c9b57f4e8ef98b584d7"
+  version "1.0,202609052041"
+  sha256 "248cd4bfc0449d7098a92551e807ef0b2154d3ebb9b402c336d5662c8c9fe47f"
 
-  url "https://www.gabrieljeffrey.com/lightbox/releases/Lightbox-1.0-202609052037.zip"
+  url "https://www.gabrieljeffrey.com/lightbox/releases/Lightbox-1.0-202609052041.zip"
   name "Lightbox"
   desc "Media browser for photographers — open a folder, see everything"
   homepage "https://gabrieljeffrey.com/lightbox/"
