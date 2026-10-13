@@ -1,8 +1,8 @@
 cask "illigata" do
-  version "1.0,202609130202"
-  sha256 "ee94fc3a454b86ea9c409ec7d18d0b2f23d57671d3473e74cc943cfbdfa7df8d"
+  version "1.0,202610121829"
+  sha256 "31713de305df89771e172d99a0b70ddef0dcc10fe95e8235793c7f7e1efd6dd4"
 
-  url "https://www.gabrieljeffrey.com/lightbox/releases/Lightbox-1.0-202609130202.zip"
+  url "https://www.gabrieljeffrey.com/lightbox/releases/Illigata-1.0-202610121829.zip"
   name "Illigata"
   name "Lightbox"
   desc "Media browser for photographers — open a folder, see everything"
@@ -17,7 +17,7 @@ cask "illigata" do
   depends_on macos: :sonoma
   depends_on arch: :arm64
 
-  app "Lightbox.app"
+  app "Illigata.app"
 
   zap trash: [
     "~/Library/Application Support/Lightbox",
